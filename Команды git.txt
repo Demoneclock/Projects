@@ -1,0 +1,4 @@
+git add . - добавляет файлы 
+git commit -m "second commit" - делает следующие сохранение с названием
+git push origin master - обновляет данные на гитхабе
+git status - показывает измененный файл
