@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+*,*:before,*:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+.F1 {
+    width: 611px;
+    margin: 53px 50px 30px 50px;
+}
+.F2 {
+    display: block;
+    margin: 0px 0px 0px 49px;
+}
+.F3 {
+    display: block;
+    margin: 0px 0px 0px 49px;
+    color: #000000;
+}
+.F4 {
+    width: 1145px;
+    height: 86px;
+    margin: 32px 84px 34px 51px;
+}
+.F5 {
+    display: inline-block;
+    margin: 0px 41px 35px 51px;
+}
+.F6 {
+    display: inline;
+    
+}
+.F7 {
+    margin: 35px 42px 37px 50px;
+}
+.F8 {
+    color: #000000;
+}
+.F9 {
+    display: block;
+    margin: 35px 42px 37px 50px;
+    height: 111px;
+    padding: 45px 0px 0px 0px;
+}
